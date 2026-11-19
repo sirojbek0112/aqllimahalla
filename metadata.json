@@ -1,0 +1,8 @@
+{
+  "name": "AqlliMahalla",
+  "description": "Yagona mahalla uchun raqamli boshqaruv, yangiliklar, e'lonlar, tadbirlar va murojaatlar platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
